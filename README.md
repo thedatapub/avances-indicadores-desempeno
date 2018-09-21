@@ -1,0 +1,2 @@
+# avances-indicadores-desempeno
+Contiene información del avance en el cumplimiento de metas y objetivos de los programas de gobierno, a través del registro de indicadores del desempeño. Los indicadores del desempeño son herramientas que miden desde las actividades y procesos cotidianos hasta la contribución de los programas para lograr el bienestar del país, a través de ellos se obtiene información cuantitativa de la implementación de las políticas públicas y el desempeño de las acciones realizadas.
